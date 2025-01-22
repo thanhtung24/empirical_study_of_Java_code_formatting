@@ -18,9 +18,9 @@ const nouns = [
     "transmitted", "university", "visibility", "wilderness", "worthwhile", "yesteryears"
 ];
 
-const STANDARD_FORMAT = "Standard format"
-const SPECIAL_FORMAT = "Special format"
-const OPTIMIZED_SPECIAL_FORMAT = "Optimized special format"
+const STANDARD_FORMAT = "Standardformatierung"
+const SPECIAL_FORMAT = "Alternative Formatierung"
+const OPTIMIZED_SPECIAL_FORMAT = "Optimierte Formatierung"
 const TAB = "  "
 const IDENTIFIER_LENGTH_PARAMETERLIST = 1
 const IDENTIFIER_LENGTH_BODY = 1
