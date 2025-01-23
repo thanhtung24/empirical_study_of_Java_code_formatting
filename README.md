@@ -7,6 +7,7 @@ Das Experiment umfasst fünf Aufgaben, die unabhängig voneinander und in belieb
 - Um möglichst viele Einflussfaktoren zu minimieren:
   - Führen Sie das Experiment nur durch, wenn Sie sich motiviert fühlen und ausreichend Zeit sowie Ruhe für eine konzentrierte Bearbeitung haben.
   - Verwenden Sie den Vollbildmodus Ihres Browsers, um das Experiment durchzuführen.
+  - Nutzen Sie für die Durchführung des Experiments einen Monitor.
   - Deaktivieren Sie die Benachrichtigungen auf Ihren mobilen Geräten.
 - Führen Sie das Training zu jeder Aufgabe durch, um sich mit den Fragestellungen vertraut zu machen. Sie können das Training jederzeit abbrechen, tun Sie dies jedoch nur, wenn Ihnen die Aufgabe vollständig klar ist.
 - Jeder Link zu einer Aufgabe führt zu einer statischen Seite. Das bedeutet, dass Sie während der Beantwortung der Fragen Pausen einlegen können, ohne den Prozess zu unterbrechen. Der Prozess geht jedoch verloren, wenn Sie den Tab mit der Aufgabe schließen.
