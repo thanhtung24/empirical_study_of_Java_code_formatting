@@ -1,4 +1,4 @@
-# Evaluation unterschiedlicher Quelltextformatie-rungen in Java anhand kontrollierter Experimente
+# Evaluation unterschiedlicher Quelltextformatierungen in Java anhand kontrollierter Experimente
 Herzlich willkommen zu unserem kontrollierten Experiment! Ziel dieses Experiments ist die Evaluation verschiedener Quelltextformatierungen in Java.
 
 Das Experiment umfasst fünf Aufgaben, die unabhängig voneinander und in beliebiger Reihenfolge bearbeitet werden können. Bitte lesen Sie die Hinweise aufmerksam durch, bevor Sie mit dem Experiment beginnen.
