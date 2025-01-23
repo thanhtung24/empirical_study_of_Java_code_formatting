@@ -176,7 +176,7 @@ document.experiment_definition(
             { variable: "Formatierung", treatments: ["Standardformatierung", "Alternative Formatierung", "Optimierte Formatierung"]},
             { variable: "Anzahl unterschiedlicher Datentypen", treatments: [0, 1, 2, 3]}
         ],
-        repetitions: 5,                    // Anzahl der Wiederholungen pro Treatmentcombination
+        repetitions: 3,                    // Anzahl der Wiederholungen pro Treatmentcombination
         accepted_responses: ["0", "1", "2", "3"], // Tasten, die vom Experiment als Eingabe akzeptiert werden
         task_configuration: (t) => {
             // Das hier ist der Code, der jeder Task im Experiment den Code zuweist.
