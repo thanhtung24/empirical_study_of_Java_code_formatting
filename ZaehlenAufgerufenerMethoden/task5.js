@@ -209,7 +209,7 @@ function generateCodeWithoutParameterlist(format, methodName) {
     let code = ""
 
     if(format == STANDARD_FORMAT) {
-        code += `${methodScope} ${methodReturnType} ${methodName} (`
+        code += `${methodScope} ${methodReturnType} ${methodName}(`
         
         // Parameter list
         code += ") {\n"
@@ -222,7 +222,7 @@ function generateCodeWithoutParameterlist(format, methodName) {
 
         code += "}"
     } else if (format == SPECIAL_FORMAT) {
-        let methodSignature = `${methodScope} ${methodReturnType} ${methodName} (`
+        let methodSignature = `${methodScope} ${methodReturnType} ${methodName}(`
         code += `${methodSignature}`
 
         // Parameter list
@@ -239,7 +239,7 @@ function generateCodeWithoutParameterlist(format, methodName) {
             }
         }
     } else {
-        let methodSignature = `${methodScope} ${methodReturnType} ${methodName} (`
+        let methodSignature = `${methodScope} ${methodReturnType} ${methodName}(`
         code += `${methodSignature}`
 
         // Parameter list
