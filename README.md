@@ -6,7 +6,7 @@ Das Experiment umfasst fünf Aufgaben, die unabhängig voneinander und in belieb
 ## Wichtige Hinweise!
 - Um möglichst viele Einflussfaktoren zu minimieren:
   - Führen Sie das Experiment nur durch, wenn Sie sich motiviert fühlen und ausreichend Zeit sowie Ruhe für eine konzentrierte Bearbeitung haben.
-  - Verwenden Sie den Vollbildmodus Ihres Browsers, um das Experiment durchzuführen.
+  - Verwenden Sie den Vollbildmodus Ihres Browsers, um das Experiment durchzuführen. Verkleiern Sie den Text auf den Bildschirm nicht! Sie müssen bei manchen Fragen horizontal oder vertikal scrollen, das ist in Ordnung, weil es das Ziel der Fragen ist!
   - Nutzen Sie für die Durchführung des Experiments einen Monitor.
   - Deaktivieren Sie die Benachrichtigungen auf Ihren mobilen Geräten.
 - Führen Sie das Training zu jeder Aufgabe durch, um sich mit den Fragestellungen vertraut zu machen. Sie können das Training jederzeit abbrechen, tun Sie dies jedoch nur, wenn Ihnen die Aufgabe vollständig klar ist.
